@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Ensaymadas',
     image: '/images/original-ensaymadas.jpg',
     description:
@@ -10,7 +9,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Ube Ensaymadas',
     image: '/images/ube-ensaymadas.jpeg',
     description:
@@ -20,7 +18,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '3',
     name: 'Ube Halaya',
     image: '/images/ube-halaya.jpg',
     description:
@@ -30,7 +27,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Cassava Cake',
     image: '/images/cassava.jpg',
     description:
