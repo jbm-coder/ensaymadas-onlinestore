@@ -11,7 +11,7 @@ import {
 } from 'react-bootstrap';
 import { FaTrash } from 'react-icons/fa';
 import Message from '../components/Message';
-import Product from '../components/Product';
+//import Product from '../components/Product';
 import { addToCart, removeFromCart } from '../slices/cartSlice';
 
 const CartScreen = () => {
